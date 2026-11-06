@@ -1,0 +1,6 @@
+{
+  "name": "RedSterling — 0 Red · 1 Better Life · 2 £",
+  "description": "An ultra-fast interactive application that shifts into Crimson Red (0), systematically makes your daily life better (1), and transmutes habits and time into British Pounds £ (2).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
